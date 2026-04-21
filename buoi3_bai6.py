@@ -14,4 +14,5 @@ for w in s:
     if w.strip(".,") == work:
         count += 1
 
-print(f"So tu '{work}' la {count}")
+print(f"So tu '{work}' trong chuoi la {count}")
+#vao commit chon file can push
