@@ -1,3 +1,5 @@
+
+# d = chieu dai, r = chieu rong, h = chieu cao
 d = float(input("Nhap chieu dai day hinh khoi chu nhat: "))
 r = float(input("Nhap chieu rong day hinh khoi chu nhat: "))
 h = float(input("Nhap chieu cao hinh khoi chu nhat: "))
